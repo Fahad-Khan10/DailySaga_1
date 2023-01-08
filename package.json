@@ -9,7 +9,7 @@
   },
   "name": "newblog",
   "version": "1.0.0",
-  "description": "Daily Journal Website",
+  "description": "MJ Saga Website",
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
